@@ -6,7 +6,7 @@ gio@GIO:~$ ggardinfetch
                                        *@@@@                   
                     @@@@@@@@@@@@@@@@@@@@@@@@&                  ggardin@italy.eu
                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                  -------------
-             @@@@@@@@@@@@@           @@@@@@@@(                 Uptime: "28 years"
+             @@@@@@@@@@@@@           @@@@@@@@(                 Uptime: "29 years"
            @@@@@@@@@@@@.                @@@@@@                 Programming_languages: "Java, C++"
           @@@@@@@@@@@@                    @@@@.                Other_languages: "HTML, CSS, JS, PHP"
          @@@@@@@@@@@@                      ,@@                 Actual_languages: "Italian (native), English (C1)"
